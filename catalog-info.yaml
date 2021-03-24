@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ui-schema"
+  description: "feafege"
+  annotations:
+    github.com/project-slug: mlulekindala/xrd-04
+    backstage.io/techdocs-ref: url:https://github.com/mlulekindala/xrd-04
+spec:
+  type: other
+  lifecycle: experimental
+  owner: "guest"
